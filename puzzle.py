@@ -1,7 +1,3 @@
-# Name: Megan Le
-# email: mle25@wisc.edu
-# Class/Semester: CS 540 Spring 2021
-# Instructor: Sharon Li
 import heapq
 import numpy as np
 
